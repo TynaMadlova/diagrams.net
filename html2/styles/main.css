@@ -1,0 +1,13 @@
+body{
+    font-size: 14pt;
+    background-color: rgba(63, 40, 9, 0.76);
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 0, 0);
+}
+h1, h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(226, 212, 15);
+}
